@@ -8,8 +8,7 @@
 </div>
 
 ## <a name="introduction">📋 Introduction</a>
-React-based CRM dashboard featuring comprehensive authentication, antd charts, sales management, and a fully operational kanban board with live updates for real-time actions across all devices.
-
+Welcome to my captivating new website, where sleek geometric designs converge with futuristic aesthetics to embody the essence of AI innovation. With its striking visuals, cool gradients and dynamic layouts, visitors are immersed in an experience that transcends traditional web design, reflecting the boundless potential of artificial intelligence. Navigating through this digital realm feels like embarking on a journey into the future, where style and substance seamlessly intertwine to redefine the online landscape
 <br />
   
 <div align="center" display="flex-grid">
