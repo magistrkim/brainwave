@@ -8,10 +8,14 @@
 </div>
 
 ## <a name="introduction">📋 Introduction</a>
-Welcome to my captivating new website, where sleek geometric designs converge with futuristic aesthetics to embody the essence of AI innovation. With its striking visuals, cool gradients and dynamic layouts, visitors are immersed in an experience that transcends traditional web design, reflecting the boundless potential of artificial intelligence. Navigating through this digital realm feels like embarking on a journey into the future, where style and substance seamlessly intertwine to redefine the online landscape
+Welcome to my captivating new website, where sleek geometric designs converge with futuristic aesthetics to embody the essence of AI innovation. 
+<br />
+With its striking visuals, cool gradients and dynamic layouts, visitors are immersed in an experience that transcends traditional web design, reflecting the boundless potential of artificial intelligence. 
+<br />
+Navigating through this digital realm feels like embarking on a journey into the future, where style and substance seamlessly intertwine to redefine the online landscape
 <br />
   
-<div align="center" display="flex-grid">
+<div align="center">
     <a href="https://www.linkedin.com/in/nataliya-kachor-522170271/" target="_blank">
       <img src="https://github.com/magistrkim/brainwave/assets/115700340/aadfdbcf-6749-4f19-8a3b-5e554bcbe908" alt="Project Image"> 
     </a>
@@ -79,3 +83,10 @@ and many more, including code architecture and reusability
     <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
+  <br />
+  <div align="center">
+    
+  **MagistrKim-2024**
+  
+  <br />
+</div>
